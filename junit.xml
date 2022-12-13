@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" time="1.228">
+  <testsuite name="Contents" errors="0" failures="0" skipped="0" timestamp="2022-12-13T16:43:05" time="1.008" tests="1">
+    <testcase classname="Contents #constructor() should create a Contents instance" name="Contents #constructor() should create a Contents instance" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
